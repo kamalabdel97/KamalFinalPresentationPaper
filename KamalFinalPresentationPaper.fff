@@ -1,0 +1,10 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+
+{\centering \includegraphics{KamalFinalPresentationPaper_files/figure-latex/unnamed-chunk-4-1}
+
+}
+
+\caption{A choropleth map that indicates the income levels across New York City at the community district level}\label{fig:unnamed-chunk-4}
+\end{figure*}
